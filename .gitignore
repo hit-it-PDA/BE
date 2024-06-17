@@ -37,4 +37,3 @@ out/
 .vscode/
 
 **/application-db.properties
-**/env.properties
