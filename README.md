@@ -212,6 +212,12 @@ asset-service
 
 #### 3. portfolio-service
 
+포트폴리오 관련 기능을 제공하는 서비스로, 포트폴리오 추천 포트폴리오 선택, 리밸런싱 알림 등 다양한 포트폴리오 관련 기능을 포함합니다.
+
+- `HititPortfolio` : 자체 서비스 포트폴리오를 추천 받는 클래스들이 포함되어있습니다.
+- `MyDataPortfolio` : 마이데이터로 포트폴리오를 추천 받는 클래스들이 포함되어있습니다.
+- `Optimize` : 사용자의 포트폴리오를 리밸런싱 후, 알림을 보내는 클래스들이 포함되어있습니다.
+
 <details>
 <summary> 구조도 </summary>
 <div markdown="1">
